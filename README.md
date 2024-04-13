@@ -20,9 +20,7 @@ Named Entity Recognition (NER) is pivotal in natural language processing (NLP), 
        * PERCENT
        * FACILITY
        * GPE (Geo-Political Entity)
-## Neural Network Model
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
